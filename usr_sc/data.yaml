@@ -1,0 +1,5 @@
+train: /mnt/e/file/ultralytics/usr_sc/data/temp
+val: /mnt/e/file/ultralytics/usr_sc/data/temp
+kpt_shape: [4,3]
+names:
+  0: plate
